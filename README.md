@@ -24,7 +24,11 @@ AI-powered F1 highlight reel generator using computer vision and Arabic NLP.
 `Python` `OpenCV` `Streamlit` `FFmpeg`
 
 ###  [Traceback](https://github.com/leenabdulkareemcs/Traceback)
-`Python` `Jupyter`
+AI-powered student learning diagnostics system that identifies the root cause of academic struggle and generates personalized learning plans.
+- 28,785 students analyzed
+- 92.5% classifier accuracy (XGBoost)
+- Live student portal + professor dashboard
+`Python` `XGBoost` `scikit-learn` `pandas` `JavaScript` `GitHub Pages``Jupyter`
 
 ---
 
@@ -40,8 +44,9 @@ Tools         Git · Linux · WebSockets · Docker
 ---
 
 ##  Currently Learning
-- Advanced network security & penetration testing
-- Trustworthy Generative AI
+- Network security & penetration testing
+- Malware analysis & reverse engineering
+- AI integration in security systems
 
 ---
 
