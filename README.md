@@ -33,14 +33,16 @@ AI-powered student learning diagnostics system that identifies the root cause of
 ---
 
 ##  Skills
-Languages     Python · JavaScript · SQL
-Frontend      React · Tailwind CSS · UI/UX
-Backend       FastAPI · Node.js · REST APIs
-Security      Network Scanning · Nmap · Scapy · OWASP
-AI/ML         Generative AI · Computer Vision · NLP
-Databases     PostgreSQL · SQLAlchemy
-Tools         Git · Linux · WebSockets · Docker
 
+```text
+Languages   →   Python · JavaScript · SQL
+Frontend    →   React · Tailwind CSS · UI/UX
+Backend     →   FastAPI · Node.js · REST APIs
+Security    →   Network Scanning · Nmap · Scapy · OWASP
+AI/ML       →   Generative AI · Computer Vision · NLP
+Databases   →   PostgreSQL · SQLAlchemy
+Tools       →   Git · Linux · WebSockets · Docker
+```
 ---
 
 ##  Currently Learning
